@@ -108,8 +108,8 @@
     </orderEntry>
   </component>
   <component name="SbtModule">
-    <option name="buildForURI" value="file:/$MODULE_DIR$/../../../../../../../../../Byron%20Vicente/UTPL/3er.%20Ciclo/Programación%20Reactiva/2%20bim/B2-Taller-Grupal-2-Persistencia-de-datos-en-archivos-RTSTUCANAL/EstudiantesDoobie/" />
-    <option name="imports" value="SUB:DOLLARa8857321cc90f202b497.`root`, _root_.sbt.Keys._, _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.JUnitXmlReportPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.sbt._, _root_.sbt.nio.Keys._, _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.scala.xml.{TopScope=&gt;SUB:DOLLARscope}" />
-    <option name="resolvers" value="https://repo1.maven.org/maven2/|maven|public, C:\Users\bvalv\.ivy2\cache|ivy|true|Local cache" />
+    <option name="buildForURI" value="file:/$MODULE_DIR$/../../" />
+    <option name="imports" value="SUB:DOLLAR95db308063d0fd685f6e.`root`, _root_.sbt.Keys._, _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.JUnitXmlReportPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.sbt._, _root_.sbt.nio.Keys._, _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.scala.xml.{TopScope=&gt;SUB:DOLLARscope}" />
+    <option name="resolvers" value="C:\Users\CROSSHAIR\.ivy2\cache|ivy|true|Local cache, https://repo1.maven.org/maven2/|maven|public" />
   </component>
 </module>
